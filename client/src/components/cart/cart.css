@@ -1,7 +1,8 @@
 .cart__container {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	margin-top: 32px;
-	gap: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 32px;
+    gap: 10px;
+
 }
